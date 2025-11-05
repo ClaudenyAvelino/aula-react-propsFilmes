@@ -1,6 +1,6 @@
 # 🎬 Aula React Props - Catálogo de Filmes
 
-![Banner do Projeto](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Film_reel_icon.svg/320px-Film_reel_icon.svg.png)
+![Banner do Projeto](./src/assets/projeto.png)
 
 ## Descrição
 
