@@ -1,3 +1,9 @@
+## 👨‍🏫 Professor
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/79340989?s=400&u=fcfb57bc9a07b8ce0eeae1195e243bb1cb56f6d8&v=4" width=115><br><sub>Claudeny Avelino</sub>](https://github.com/ClaudenyAvelino)
+ 
+**E-mail:** claudeny.avelino@gmail.com  
+**Turma:** JOVEM-TECH-ReactJS
+
 # 🎬 Aula React Props - Catálogo de Filmes
 
 ![Banner do Projeto](./src/assets/projeto.png)
